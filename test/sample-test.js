@@ -1,5 +1,5 @@
-const { expect } = require("chai");
-const { ethers } = require("hardhat");
+const { expect } = require("https://cdn.skypack.dev/chai");
+const { ethers } = require("https://cdn.skypack.dev/hardhat");
 
 describe("Greeter", function () {
   it("Should return the new greeting once it's changed", async function () {

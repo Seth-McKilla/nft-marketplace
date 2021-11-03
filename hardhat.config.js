@@ -1,4 +1,4 @@
-require("@nomiclabs/hardhat-waffle");
+require("https://cdn.skypack.dev/@nomiclabs/hardhat-waffle");
 
 module.exports = {
   networks: {
